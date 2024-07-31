@@ -5,4 +5,4 @@
 
 Hello! I'm Fisher, and I'm a student studying computer science. I love strongly-typed languages, typography, and cooking.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,astro,tailwind,vite,rust,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust)](https://skillicons.dev)
