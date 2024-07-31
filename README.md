@@ -5,4 +5,4 @@
 
 Hello! I'm Fisher, and I'm a student studying computer science. I love strongly-typed languages, typography, and cooking.
 
-Here is some tech I currently use: Astro, React, Tailwind, Vite, TypeScript, Rust, Proxmox
+Some tech I currently use: Astro, React, Tailwind, Vite, TypeScript, Rust, Proxmox
